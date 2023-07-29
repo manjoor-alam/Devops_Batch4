@@ -3,3 +3,4 @@
 3. git push
 4. git log
 5. git status
+6. git fetch
